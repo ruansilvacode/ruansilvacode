@@ -12,7 +12,7 @@
 </div>
 <div>
 <a href="htpps://github.com/ruansilvacode">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruansilvacodes&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=006f4c&amp;icon_color=006f4c&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruansilvacode&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=006f4c&amp;icon_color=006f4c&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;">
 <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruansilvacode&amp;layout=compact&amp;hide_border=true&amp;title_color=006f4c&amp;text_color=ff91a4&amp;bg_color=0d1117" style="max-width: 100%;">
 </div>
  

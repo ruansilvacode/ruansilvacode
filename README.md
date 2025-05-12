@@ -8,7 +8,7 @@
 <div>
 <a href="https://instagram.com/ruan.code" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
 <a href="https://discord.com/users/666523619551215648" target="_blank"><img src="https://img.shields.io/badge/discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA">
-<a href="ruuansilvaa007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836">
+<a href="mailto:ruuansilvaa007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836">
 </div>
 <div>
 <a href="htpps://github.com/ruansilvacode">
